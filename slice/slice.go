@@ -11,4 +11,6 @@ func main() {
 
 	courseWeb := courseName[1:4]
 	fmt.Println(courseWeb)
+
+	// ไม่จำเป็นต้องระบุจำนวนขนาดก่อน
 }
